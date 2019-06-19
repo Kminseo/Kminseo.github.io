@@ -1,12 +1,12 @@
 ---
-title: Bulma Clean Theme
+title: GitBlog
 subtitle: This is the demo site for Bulma Clean Theme
 layout: page
 ---
 
-# Bulma Clean Theme demo website
+# 음....코드 정리용 블로그
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+코드 정리용 
 
 ## Ruby Gem
 
