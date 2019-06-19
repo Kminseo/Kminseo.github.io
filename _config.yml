@@ -1,10 +1,10 @@
 # Site Settings
-title: Bulma Clean Theme
+title: Minseo Blog
 tagline: Bulma Clean Theme
-email: your-email@domain.com
+email: polar8950@naver.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+baseurl: ""
 url: "https://Kminseo.github.io/"
 permalink: pretty
 
