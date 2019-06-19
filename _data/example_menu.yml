@@ -5,6 +5,8 @@
     - name: Pages
       link: #
       items:
+        - name: QT Creator 
+          link: /first_post/
         - name: Page With Sidebar 
           link: /page-1/
         - name: Page Without Sidebar
