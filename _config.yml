@@ -4,7 +4,7 @@ tagline: Bulma Clean Theme
 email: polar8950@naver.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: ""
+baseurl: "/bulma-clean-theme"
 url: "https://Kminseo.github.io/"
 permalink: pretty
 
