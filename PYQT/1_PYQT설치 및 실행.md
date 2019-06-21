@@ -1,6 +1,6 @@
 ---
-title: Page With Sidebar
-subtitle: A demo page with a sidebar
+title: PYQT 설치 및 실행
+subtitle: PYQT 설치 및 실행방법 설명
 layout: page
 show_sidebar: true
 ---
