@@ -2,7 +2,7 @@
   link: #
   dropdown:
     - name: PYQT
-      link: /page-1/
+      link: /PYQT/1_PYQT설치 및 실행
     - name: Multi Programing
       link: /page-2/
     - name: Matplotlib
