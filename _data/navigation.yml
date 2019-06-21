@@ -9,7 +9,7 @@
       link: /page-3/
     - name: Socket Programing
       link: /page-4/
-- name: Matplotlib
+- name: AI
   link: #
   dropdown:
     - name: PYQT
