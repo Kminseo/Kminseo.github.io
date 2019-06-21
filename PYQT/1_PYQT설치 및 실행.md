@@ -7,6 +7,7 @@ show_sidebar: true
 
 ### PyQt설치
 설치환경 : 16.04 Ubuntu, Python3 기준으로 작성되었습니다.
+
 `pip3 install --user pyqt5`
 
 `sudo apt-get install python3-pyqt5`
