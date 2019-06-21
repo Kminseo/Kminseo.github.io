@@ -3,7 +3,7 @@
     - name: PYQT
       link: #
       items:
-        - name: Page With Sidebar 
+        - name: 1_PYQT설치 및 실행 
           link: /PYQT/1_PYQT설치 및 실행
         - name: Page Without Sidebar
           link: /page-2/
