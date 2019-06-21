@@ -1,15 +1,24 @@
-- name: Pages
+- name: Python
   link: #
   dropdown:
-    - name: Page With Sidebar
+    - name: PYQT
       link: /page-1/
-    - name: Page No Sidebar
+    - name: Multi Programing
+      link: /page-2/
+    - name: Matplotlib
+      link: /page-3/
+    - name: Socket Programing
+      link: /page-4/
+- name: Matplotlib
+  link: #
+  dropdown:
+    - name: PYQT
+      link: /page-1/
+    - name: Multi Programing
       link: /page-2/
     - name: Page With Menubar
       link: /page-3/
     - name: Page With Tabs
       link: /page-4/
-- name: Products
-  link: /products/
 - name: Blog
-  link: /blog/
+  link: /products/
