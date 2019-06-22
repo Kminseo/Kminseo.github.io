@@ -12,7 +12,7 @@
         - name: 4_PYQT Widget
           link: /Python/PYQT/4_PYQT Widget
         - name: 5_PYQT Image Processing
-          link: /Python/PYQT/5_PYQT Image 
+          link: /Python/PYQT/5_PYQT Image Processing
     - name: Matplotlib
       link: #
       items:

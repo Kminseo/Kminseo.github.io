@@ -8,7 +8,7 @@
     - name: Matplotlib
       link: /Python/Matplotlib/1_Basic Plot
     - name: Socket Programing
-      link: /Python/Soket Programing
+      link: /Python/Soket/Programing
 - name: AI
   link: #
   dropdown:
