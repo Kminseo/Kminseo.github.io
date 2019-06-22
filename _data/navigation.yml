@@ -2,13 +2,13 @@
   link: #
   dropdown:
     - name: PYQT
-      link: /PYQT/1_PYQT설치 및 실행
+      link: /Python/PYQT/1_PYQT설치 및 실행
     - name: Multi Programing
-      link: /page-2/
+      link: /Python/Multiprograming/1_Multi Thread
     - name: Matplotlib
-      link: /page-3/
+      link: /Python/Matplotlib/1_Basic Plot
     - name: Socket Programing
-      link: /page-4/
+      link: /Python/Soket Programing
 - name: AI
   link: #
   dropdown:
