@@ -3,7 +3,7 @@ title: PYQT
 subtitle: Python GUI Tool
 layout: page
 show_sidebar: false
-menubar: PYQT
+menubar: Python
 ---
 
 ### Qlabel

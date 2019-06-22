@@ -3,7 +3,7 @@ title: PYQT
 subtitle: Python GUI Tool
 layout: page
 show_sidebar: false
-menubar: PYQT
+menubar: Python
 ---
 ### Signal and Emit
 Gui를 만드는 과정에서 여러가지 기능을 생성할때 클래스를 여러개 만들어서 생성할 때, 객체에서 발생한 이벤트값을 다른 객체로 전달할 때 Signal과 Emit를 사용하여 전달가능하다.

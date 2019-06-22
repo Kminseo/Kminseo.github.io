@@ -1,0 +1,33 @@
+- label: Python Menu
+  items:
+    - name: PYQT
+      link: #
+      items:
+        - name: 1_PYQT설치 및 실행 
+          link: /Python/PYQT/1_PYQT설치 및 실행
+        - name: 2_GUI write, read API
+          link: /Python/PYQT/2_GUI write, read API
+        - name: 3_PYQT_Event
+          link: /Python/PYQT/3_PYQT_Event
+        - name: 4_PYQT Widget
+          link: /Python/PYQT/4_PYQT Widget
+        - name: 5_PYQT Image Processing
+          link: /Python/PYQT/5_PYQT Image 
+    - name: Matplotlib
+      link: #
+      items:
+        - name: 1_Basic Plot
+          link: /Python/Matplotlib/1_Basic Plot
+    - name: Multiprograming
+      link: #
+      items:
+        - name: 1_Multi Thread
+          link: /Python/Multiprograming/1_Multi Thread
+        - name: 2_Multi Process
+          link: /Python/Multiprograming/2_Multi Process
+    - name: Soket Programing
+      link: #
+      items:
+        - name: 1_PYQT설치 및 실행 
+          link: /Python/PYQT/1_PYQT설치 및 실행
+        
